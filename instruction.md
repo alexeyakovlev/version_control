@@ -30,3 +30,4 @@
 Это яблоко
 ![Яблоко](apple.jpg)
 end
+instruction from ALEXYAKOVLEV
